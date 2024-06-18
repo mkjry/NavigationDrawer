@@ -17,6 +17,7 @@ layout files;
 7. conent_screen1, conent_screen2, conent_screen3
 
 To add new menu4 + screen4 :
+
 layout : 
 	add menu4 item on activity_main_drawer
 	add fragment_4 layout file
