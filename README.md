@@ -24,7 +24,7 @@ layout :
  
 	add fragment_4 layout file
  
-	add fragment name with id (menu item nav_4 on activity_main.xml & fragment_4 point on mobile_navigation.xml)
+	add fragment name with id (menu item nav_4 on activity_main_drawer.xml & fragment_4 point on mobile_navigation.xml)
 	
 logic codes :
 
