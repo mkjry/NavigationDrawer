@@ -16,15 +16,20 @@ layout files;
 6. activity_main_drawer : menu group/list
 7. conent_screen1, conent_screen2, conent_screen3
 
+
 To add new menu4 + screen4 :
 
 layout : 
 	add menu4 item on activity_main_drawer
+ 
 	add fragment_4 layout file
+ 
 	add fragment name with id (id/nav_4, fragment_4)
 	
 logic codes :
+
 	regist new menu id(R.id.menu4) item on Activity
+ 
 	add new fragment screen code file
 
  
